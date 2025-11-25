@@ -16,4 +16,7 @@ Vue3 的响应式原理，包含 reactive, ref, computed 的实现，使用了 h
 
 ### 一些资料：
 [AI](https://www.cuiliangblog.cn/detail/section/228425132)
+
 [深度学习](https://www.rethink.fun/)
+
+[waytoagi](https://waytoagi.feishu.cn/)

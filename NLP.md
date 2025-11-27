@@ -80,15 +80,23 @@ NLP 的早期探索始于二战后，当时人们认识到将一种语言自动�
 
 假设我们有一个英文句子：She is playing the guitar in the park.
 
-· She (代词，Pronoun，PRP)
-· is (动词，Verb，VBZ)
-· playing (动词的现在分词，Verb，VBG)
-· the (限定词，Determiner，DT)
-· guitar (名词，Noun，NN)
-· in (介词，Preposition，IN)
-· the (限定词，Determiner，DT)
-· park (名词，Noun，NN)
-. (标点，Punctuation，.)
++ She (代词，Pronoun，PRP)
+  
++ is (动词，Verb，VBZ)
+  
++ playing (动词的现在分词，Verb，VBG)
+  
++ the (限定词，Determiner，DT)
+  
++ guitar (名词，Noun，NN)
+  
++ in (介词，Preposition，IN)
+  
++ the (限定词，Determiner，DT)
+  
++ park (名词，Noun，NN)
+  
++ (标点，Punctuation，.)
 
 词性标注通常依赖于机器学习模型，如隐马尔可夫模型（Hidden Markov Model，HMM）、条件随机场（Conditional Random Field，CRF）或者基于深度学习的循环神经网络 RNN 和长短时记忆网络 LSTM 等。这些模型通过学习大量的标注数据来预测新句子中每个单词的词性。
 

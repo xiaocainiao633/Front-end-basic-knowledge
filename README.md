@@ -1,4 +1,4 @@
-### Independent and simple Vue 3 module codes for testing purposes. The full version will be uploaded to another repository.
+## 一些知识，详见每个目录下的 README.md
 
 **use node.js23.6.0**
 

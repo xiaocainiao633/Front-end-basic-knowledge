@@ -24,3 +24,5 @@ Vue3 的响应式原理，包含 reactive, ref, computed 的实现，使用了 h
 [waytoagi](https://waytoagi.feishu.cn/)
 
 [happy-llm](https://datawhalechina.github.io/happy-llm/#/)
+
+[langchain](https://langchain-doc.cn/v1/python/langchain/agents.html)

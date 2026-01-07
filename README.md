@@ -1,6 +1,6 @@
 ## 一些知识，详见每个目录下的 README.md
 
-**use node.js23.6.0**
+**node.js>=23.6.0**
 
 #### 1.index1.js-index6.js
 
